@@ -181,3 +181,25 @@ body{
     color: #E55473;
 }
 
+/* discount-container ending */
+
+
+/* flower item section css  */
+
+
+.flowers-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+     margin-top: 50px;
+     margin-bottom: 100px;
+}
+
+.social-text{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+/* flower item section css  */
