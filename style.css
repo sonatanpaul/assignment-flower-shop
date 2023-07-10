@@ -1,0 +1,183 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.flower-banner-container{
+    background-color: rgba(229, 84, 115, 0.10);
+    height: 850px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.text-side{
+    text-align: left;
+    width: 708px;
+    margin-left: 40px;
+    
+}
+
+.flower-side{
+    height: 800px;
+    width: 650px;
+    margin-bottom: -48px;
+    
+}
+
+.banner-heading{
+    font-size: 80px;
+    font-weight: 900;
+    
+}
+
+.banner-text{
+    color: rgba(39, 39, 39, 0.60);
+    font-weight: 400;
+    line-height: 30px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.button-link{
+    border: none;
+    background-color: #E55473;;
+    padding: 20px 43px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+/* feature flower section starting  */
+
+.feature-flower-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 80px;
+
+    
+}
+
+.flower-container{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    padding: 35px;
+
+}
+
+.flower-bg-color-one{
+    width: 314px;
+    height: 480px;
+    background-color: rgba(167, 33, 98, 0.15);
+    margin-bottom:60px;  
+    margin-top: 44px;
+}
+
+.flower-bg-color-two{
+    background-color: rgba(5, 151, 160, 0.15);
+    width: 314px;
+    height: 471px;
+        
+}
+
+.flower-bg-color-three{
+    width: 314px;
+    height: 471px;
+    background-color: rgba(71, 125, 17, 0.15);
+    
+}
+
+.flower-container >.flower{
+    margin-top: 86px;
+}
+
+.flower-container >.flower-yellow{
+    margin-top: 34px;
+}
+
+
+.flower-text-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: -100px;
+    font-size: 18px;
+    font-weight: 800;
+    text-decoration-line: underline;
+}
+
+.f-text-p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.f-text-heading{
+    text-align: center;
+    margin-top: 180px;
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-weight: 800;
+}
+    /* feature flower section starting  */
+
+
+
+                /* client section  */
+
+.client-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: rgba(39, 39, 39, 0.05);
+    padding: 60px;
+   margin-left: 290px;
+   margin-right: 290px;
+}
+
+.client{
+    text-align: center;
+}
+
+/* client section ending */
+
+
+/* discount-container starting */
+
+.discount-container{
+    background-color: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.sale-container{
+    width: 590px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.hot-sale-text{
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+.text-color{
+    color: #E55473;
+}
+
