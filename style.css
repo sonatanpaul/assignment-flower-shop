@@ -164,6 +164,7 @@ body{
     justify-content: space-evenly;
     align-items: center;
     margin-bottom: 100px;
+    height: 60vh;
 }
 
 .sale-container{
@@ -221,12 +222,13 @@ body{
 
 
 .email-work{
-    width: 500px;
+    width: 580px;
     height: 50px;
     margin-right: 10px;
     border: none;
     padding: 8px;
     font-size: 20px;
+    border-radius: 5px;
 }
 
 
